@@ -15,7 +15,7 @@ keyKodes.modifiers = {
 
 keyKodes.special = {
   backspace: 9,
-  tab: 9:,
+  tab: 9,
   enter: 13,
   pause: 19, // also break
   capsLock: 20,
