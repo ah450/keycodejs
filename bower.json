@@ -1,0 +1,26 @@
+{
+  "name": "keykodesjs",
+  "version": "0.0.1",
+  "authors": [
+    "Ahmed H. Ismail <ahm3d.hisham@gmail.com>"
+  ],
+  "description": "Provides lookup tables and comparison functions for keycodes, enough with the magic numbers!",
+  "main": "keykodes.js",
+  "keywords": [
+    "keycode",
+    "char",
+    "code",
+    "key",
+    "charcode",
+    "which"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ah450/keykodesjs",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
